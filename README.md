@@ -196,4 +196,4 @@ This repository serves as the official landing page for Adblock Edge. The softwa
 **Get the most recent version of Adblock Edge today!**
 
 ---
-**Last updated:** 2026-11-07 17:56:59 UTC
+**Last updated:** 2026-11-07 21:36:51 UTC
